@@ -124,3 +124,6 @@ git push
 lolmao
 
 charlas
+
+
+COMANDOS USADOS
